@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/nael/Downloads/commons-cli-1.4/commons-cli-1.4.jar"
+        ],
+        "exclude": [
+            "/Users/nael/Desktop/Pet-Rescue-main/Libraries/commons-cli-1.4.jar"
+        ]
+    }
+}

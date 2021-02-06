@@ -1,6 +1,6 @@
 # BOB RESCUE
 
-Object Oriented Game made in JAVA made at college.
+Object Oriented Game made in JAVA at college with a friend.
 It's a PET-RESCUE's replica.
 The initial aim of the game is to save pets.
 Though here you have to save as much as you can SpongeBob !
